@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "slides/1.0-intro-slides.html#goals",
+    "href": "slides/1.0-intro-slides.html#goals",
+    "title": "1.0 Introduction",
+    "section": "Goals",
+    "text": "Goals\n\nLearn how to use Quarto\nUnderstand population data sources\nCreate reproducible workflows",
+    "crumbs": [
+      "Slides",
+      "1  Intro Slides"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This website hosts materials for Intro to Population Data Science\nat the Portland State University Population Research Center.\nInstructor: Nicolás Sacco\nSemester: Fall 2025"
+  },
+  {
+    "objectID": "about.html#about-this-course",
+    "href": "about.html#about-this-course",
+    "title": "About",
+    "section": "",
+    "text": "This website hosts materials for Intro to Population Data Science\nat the Portland State University Population Research Center.\nInstructor: Nicolás Sacco\nSemester: Fall 2025"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "psu-popdatasci",
+    "title": "Intro to Population Data Science",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]
