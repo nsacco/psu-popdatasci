@@ -1,5 +1,12 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+## About this course
+
+This website hosts materials for **Intro to Population Data Science**  
+at the Portland State University Population Research Center.
+
+Instructor: Nicolás Sacco  
+Semester: Fall 2025

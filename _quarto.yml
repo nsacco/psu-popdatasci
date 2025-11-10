@@ -71,4 +71,4 @@ format:
     slide-number: true
     transition: fade
     incremental: true
-    include-after-body: _include-download-pdf.html
+    include-after-body: fragments/_include-download-pdf.html

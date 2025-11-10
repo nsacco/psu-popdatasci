@@ -1,6 +1,8 @@
 ---
-title: "psu-popdatasci"
+title: "Intro to Population Data Science"
+format: html
 ---
+
 
 This is a Quarto website.
 
