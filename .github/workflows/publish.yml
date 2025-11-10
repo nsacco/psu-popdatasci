@@ -39,9 +39,18 @@ jobs:
       - name: Render Quarto site
         run: quarto render
 
+      - name: Render slides to PDF
+        run: quarto render slides --to pdf
+
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
           publish_branch: gh-pages
+
+      - name: Render site
+        run: quarto render
+
+      - name: Render slides to PDF
+        run: quarto render slides --to pdf

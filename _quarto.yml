@@ -1,21 +1,74 @@
 project:
   type: website
+  output-dir: _site
+  preview:
+    port: 5896
+    browser: true
+  render:
+    - "*.qmd"
+    - "modules/*.qmd"
+    - "slides/*.qmd"
+    - "!fragments/"
+  resources:
+    - "class/"
+    - "rubrics/"
+    - "data/"
+    - "images/"
 
 website:
-  title: "psu-popdatasci"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Intro to Population Data Science"
+  description: "Course website – Population Research Center, PSU"
+  repo-url: https://github.com/nsacco/psu-popdatasci
+  repo-actions: [edit, issue]
+  search: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        icon: house-door-fill
+        href: index.qmd
+      - text: "Syllabus"
+        icon: map-fill
+        href: modules/0.0-syllabus.qmd
+      - section: "Modules"
+        icon: collection-fill
+        contents:
+          - text: "1  Introduction"
+            href: modules/1.0-introduction.qmd
+          - text: "2  Data Sources"
+            href: modules/2.0-data-sources.qmd
+          - text: "3  R Basics"
+            href: modules/3.0-r-basics.qmd
+          - text: "4  Demographic Data"
+            href: modules/4.0-demographic-data.qmd
+          - text: "5  Spatial Analysis"
+            href: modules/5.0-spatial-analysis.qmd
+          - text: "6  Projects"
+            href: modules/6.0-projects.qmd
+      - section: "Slides"
+        icon: easel3-fill
+        contents:
+          - text: "1  Intro Slides"
+            href: slides/1.0-intro-slides.qmd
+          - text: "2  Data Slides"
+            href: slides/2.0-data-sources-slides.qmd
+          - text: "3  R Basics Slides"
+            href: slides/3.0-r-basics-slides.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
-
+    toc-location: right
+    number-sections: true
+    anchor-sections: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    css: styles.css
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: true
+    include-after-body: _include-download-pdf.html

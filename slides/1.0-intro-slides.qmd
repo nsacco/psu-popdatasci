@@ -1,0 +1,16 @@
+---
+title: "1.0 Introduction"
+format: revealjs
+---
+
+# Welcome to Intro to Population Data Science
+
+This is our first slide deck.
+
+---
+
+## Goals
+
+- Learn how to use Quarto
+- Understand population data sources
+- Create reproducible workflows

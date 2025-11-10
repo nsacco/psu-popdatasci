@@ -1,0 +1,22 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const container = document.querySelector(".reveal");
+  if (!container) return;
+
+  const pdfLink = document.createElement("a");
+  pdfLink.href = window.location.pathname.replace(/\.html$/, ".pdf");
+  pdfLink.textContent = "⬇ Download PDF";
+  pdfLink.style.position = "fixed";
+  pdfLink.style.top = "12px";
+  pdfLink.style.right = "20px";
+  pdfLink.style.background = "rgba(0,0,0,0.6)";
+  pdfLink.style.color = "#fff";
+  pdfLink.style.padding = "6px 10px";
+  pdfLink.style.borderRadius = "8px";
+  pdfLink.style.textDecoration = "none";
+  pdfLink.style.fontSize = "0.9rem";
+  pdfLink.style.zIndex = "9999";
+
+  container.appendChild(pdfLink);
+});
+</script>
