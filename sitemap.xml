@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nsacco.github.io/psu-popdatasci/slides/1.0-intro-slides.html</loc>
-    <lastmod>2025-11-10T19:28:10.704Z</lastmod>
+    <lastmod>2025-11-10T22:47:27.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsacco.github.io/psu-popdatasci/modules/0.0-syllabus.html</loc>
+    <lastmod>2025-11-10T22:47:27.756Z</lastmod>
   </url>
   <url>
     <loc>https://nsacco.github.io/psu-popdatasci/about.html</loc>
-    <lastmod>2025-11-10T19:28:10.703Z</lastmod>
+    <lastmod>2025-11-10T22:47:27.755Z</lastmod>
   </url>
   <url>
     <loc>https://nsacco.github.io/psu-popdatasci/index.html</loc>
-    <lastmod>2025-11-10T19:28:10.703Z</lastmod>
+    <lastmod>2025-11-10T22:47:27.755Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nsacco.github.io/psu-popdatasci/slides/0.0-syllabus.html</loc>
+    <lastmod>2025-11-10T22:47:27.756Z</lastmod>
   </url>
 </urlset>
