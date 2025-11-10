@@ -3,7 +3,11 @@ title: "Intro to Population Data Science"
 format: html
 ---
 
+Welcome to the **Intro to Population Data Science** course website — part of the *Population Research Center* at **Portland State University**.
 
-This is a Quarto website.
+This site contains:
+- The full syllabus and weekly modules  
+- Lecture slides (HTML & PDF)  
+- Links to datasets, assignments, and software setup instructions  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Use the sidebar to navigate between sections.

@@ -1,16 +1,23 @@
 ---
-title: "1.0 Introduction"
+title: "Introduction to Population Data Science"
 format: revealjs
 ---
 
-# Welcome to Intro to Population Data Science
+## What is Population Data Science?
 
-This is our first slide deck.
+> *“The intersection of population studies, statistics, and computation.”*
 
 ---
 
-## Goals
+### Why Population Data Science?
+- Massive growth in open demographic data
+- Reproducible workflows (R + Quarto + GitHub)
+- Integration of spatial, temporal, and social dimensions
 
-- Learn how to use Quarto
-- Understand population data sources
-- Create reproducible workflows
+---
+
+### The Course Journey
+1. Core demographic data sources  
+2. Programming foundations in R  
+3. Spatial and temporal modeling  
+4. Project and presentation
