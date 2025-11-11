@@ -1,0 +1,76 @@
+---
+title: "Population Data Sources"
+subtitle: "Censuses, Surveys, and Administrative Data"
+author: "Nicolás Sacco"
+institute: "Population Research Center – Portland State University"
+format: revealjs
+---
+
+# Module 2 – Population Data Sources
+
+Understanding where population data come from and how to assess their quality.
+
+---
+
+## Main Data Sources
+
+- **Censuses**
+  - Universal enumeration every 10 years  
+  - Example: *Censo Nacional de Población, Hogares y Viviendas (Argentina, 2022)*  
+- **Vital statistics**
+  - Continuous registration of births and deaths (DEIS, UNData)
+- **Surveys**
+  - Representative samples (e.g. DHS, EPH, MICS)
+- **Administrative data**
+  - Registers, school, tax, and health systems
+
+---
+
+## Data Source Continuum
+
+```mermaid
+graph LR
+A[Census] --> B[Survey] --> C[Administrative] --> D[Digital Traces]
+Each type balances coverage, frequency, and detail.
+```
+
+---
+
+## Challenges in Population Data
+
+- Coverage errors (undercounts, duplicates)
+
+- Content errors (misreporting)
+
+- Temporal gaps
+
+- Access and harmonization
+
+---
+
+## Example: IPUMS-International
+
+- Provides harmonized microdata from >100 countries
+
+- Enables cross-national demographic analysis
+
+- Metadata: https://international.ipums.org
+
+### Practical Exercise
+
+- Download a sample of Argentina 2010 from IPUMS
+
+- Load in R:
+
+```{r}
+
+data <- read_ipums_micro("ipumsi_00001.dat.gz")
+Tabulate population by sex, age, and province
+```
+
+---
+
+### Discussion
+
+- What makes population data “fit for purpose”?
+- How do differences in collection design affect comparability?

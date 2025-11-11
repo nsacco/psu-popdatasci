@@ -1,0 +1,81 @@
+---
+title: "1.0 Introduction Slides"
+format: revealjs
+---
+
+## Course Information
+**Instructor:** Nicolás Sacco  
+**Institution:** Population Research Center, Portland State University  
+**Semester:** Fall 2025  
+**Format:** Hybrid / In-person + Online materials  
+
+---
+
+## Description
+This course introduces students to the principles and practices of **Population Data Science**, an emerging interdisciplinary field combining **demography, statistics, and computational methods** to analyze population data.
+
+---
+
+## Learning Objectives
+By the end of this course, students will be able to:
+1. Understand key population data sources and their limitations  
+2. Apply R for demographic and spatial data analysis  
+3. Build reproducible workflows using open science tools (R, Quarto, GitHub)  
+4. Conduct a mini population data project  
+
+---
+
+## Evaluation
+- Assignments (40%)  
+- Final Project (40%)  
+- Participation (20%)
+
+---
+
+## Software
+R, RStudio, and Quarto (installation guide under *Software* tab)
+EOF
+
+cat > modules/1.0-introduction.qmd <<'EOF'
+---
+title: "Module 1 – Introduction to Population Data Science"
+---
+
+## Overview
+This module introduces the concept of *Population Data Science*, its origins, and its connections with demography and data-driven social science.
+
+### Topics
+- What is population data science?
+- Why study populations with computational tools?
+- Key datasets (census, surveys, registers, and digital traces)
+
+### Reading
+- Reimsbach-Kounatze (2020) – *Population Data Science: The Data Revolution in Demography*
+- Sacco, N. (2024) – *Bringing Computation into Demography: Latin American Perspectives*
+EOF
+
+cat > slides/1.0-intro-slides.qmd <<'EOF'
+---
+title: "Introduction to Population Data Science"
+format: revealjs
+---
+
+## What is Population Data Science?
+
+> *“The intersection of population studies, statistics, and computation.”*
+
+---
+
+### Why Population Data Science?
+- Massive growth in open demographic data
+- Reproducible workflows (R + Quarto + GitHub)
+- Integration of spatial, temporal, and social dimensions
+
+---
+
+### The Course Journey
+1. Core demographic data sources  
+2. Programming foundations in R  
+3. Spatial and temporal modeling  
+4. Project and presentation
+

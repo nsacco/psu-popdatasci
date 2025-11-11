@@ -1,146 +1,128 @@
 [
   {
-    "objectID": "slides/1.0-intro-slides.html#what-is-population-data-science",
-    "href": "slides/1.0-intro-slides.html#what-is-population-data-science",
-    "title": "Introduction to Population Data Science",
-    "section": "What is Population Data Science?",
-    "text": "What is Population Data Science?\n\n“The intersection of population studies, statistics, and computation.”",
-    "crumbs": [
-      "Slides",
-      "1  Intro Slides"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html",
-    "href": "modules/0.0-syllabus.html",
-    "title": "Course Syllabus",
-    "section": "",
-    "text": "Instructor: Nicolás Sacco\nInstitution: Population Research Center, Portland State University\nSemester: Fall 2025\nFormat: Hybrid / In-person + Online materials",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html#course-information",
-    "href": "modules/0.0-syllabus.html#course-information",
-    "title": "Course Syllabus",
-    "section": "",
-    "text": "Instructor: Nicolás Sacco\nInstitution: Population Research Center, Portland State University\nSemester: Fall 2025\nFormat: Hybrid / In-person + Online materials",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html#description",
-    "href": "modules/0.0-syllabus.html#description",
-    "title": "Course Syllabus",
-    "section": "2 Description",
-    "text": "2 Description\nThis course introduces students to the principles and practices of Population Data Science, an emerging interdisciplinary field combining demography, statistics, and computational methods to analyze population data.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html#learning-objectives",
-    "href": "modules/0.0-syllabus.html#learning-objectives",
-    "title": "Course Syllabus",
-    "section": "3 Learning Objectives",
-    "text": "3 Learning Objectives\nBy the end of this course, students will be able to: 1. Understand key population data sources and their limitations\n2. Apply R for demographic and spatial data analysis\n3. Build reproducible workflows using open science tools (R, Quarto, GitHub)\n4. Conduct a mini population data project",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html#evaluation",
-    "href": "modules/0.0-syllabus.html#evaluation",
-    "title": "Course Syllabus",
-    "section": "4 Evaluation",
-    "text": "4 Evaluation\n\nAssignments (40%)\n\nFinal Project (40%)\n\nParticipation (20%)",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "modules/0.0-syllabus.html#software",
-    "href": "modules/0.0-syllabus.html#software",
-    "title": "Course Syllabus",
-    "section": "5 Software",
-    "text": "5 Software\nR, RStudio, and Quarto (installation guide under Software tab)",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This website hosts materials for Intro to Population Data Science\nat the Portland State University Population Research Center.\nInstructor: Nicolás Sacco\nSemester: Fall 2025"
-  },
-  {
-    "objectID": "about.html#about-this-course",
-    "href": "about.html#about-this-course",
-    "title": "About",
-    "section": "",
-    "text": "This website hosts materials for Intro to Population Data Science\nat the Portland State University Population Research Center.\nInstructor: Nicolás Sacco\nSemester: Fall 2025"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "pt/index.html",
+    "href": "pt/index.html",
     "title": "Intro to Population Data Science",
     "section": "",
-    "text": "Welcome to the Intro to Population Data Science course website — part of the Population Research Center at Portland State University.\nThis site contains: - The full syllabus and weekly modules\n- Lecture slides (HTML & PDF)\n- Links to datasets, assignments, and software setup instructions\nUse the sidebar to navigate between sections.",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "Welcome to the Population Research Center’s course on Population Data Science, taught by Nicolás Sacco at Portland State University.\n\n\n\nThis course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns.\n\n\n\n\n\nUnderstand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills\n\n\n\n\n\n\n\n\nModule\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations\n\n\n\n\n\n\n\nNicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco\n\n\n\n\n\n🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#course-information",
-    "href": "slides/0.0-syllabus.html#course-information",
-    "title": "Introduction to Population Data Science",
-    "section": "Course Information",
-    "text": "Course Information\nInstructor: Nicolás Sacco\nInstitution: Population Research Center, Portland State University\nSemester: Fall 2025\nFormat: Hybrid / In-person + Online materials"
+    "objectID": "pt/index.html#about-the-course",
+    "href": "pt/index.html#about-the-course",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "This course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns."
   },
   {
-    "objectID": "slides/0.0-syllabus.html#description",
-    "href": "slides/0.0-syllabus.html#description",
-    "title": "Introduction to Population Data Science",
-    "section": "Description",
-    "text": "Description\nThis course introduces students to the principles and practices of Population Data Science, an emerging interdisciplinary field combining demography, statistics, and computational methods to analyze population data."
+    "objectID": "pt/index.html#learning-goals",
+    "href": "pt/index.html#learning-goals",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Understand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#learning-objectives",
-    "href": "slides/0.0-syllabus.html#learning-objectives",
-    "title": "Introduction to Population Data Science",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this course, students will be able to: 1. Understand key population data sources and their limitations\n2. Apply R for demographic and spatial data analysis\n3. Build reproducible workflows using open science tools (R, Quarto, GitHub)\n4. Conduct a mini population data project"
+    "objectID": "pt/index.html#course-structure",
+    "href": "pt/index.html#course-structure",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Module\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#evaluation",
-    "href": "slides/0.0-syllabus.html#evaluation",
-    "title": "Introduction to Population Data Science",
-    "section": "Evaluation",
-    "text": "Evaluation\n\nAssignments (40%)\n\nFinal Project (40%)\n\nParticipation (20%)"
+    "objectID": "pt/index.html#instructor",
+    "href": "pt/index.html#instructor",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Nicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#software",
-    "href": "slides/0.0-syllabus.html#software",
-    "title": "Introduction to Population Data Science",
-    "section": "Software",
-    "text": "Software\nR, RStudio, and Quarto (installation guide under Software tab) EOF\ncat &gt; modules/1.0-introduction.qmd &lt;&lt;‘EOF’"
+    "objectID": "pt/index.html#links",
+    "href": "pt/index.html#links",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#overview",
-    "href": "slides/0.0-syllabus.html#overview",
-    "title": "Introduction to Population Data Science",
-    "section": "Overview",
-    "text": "Overview\nThis module introduces the concept of Population Data Science, its origins, and its connections with demography and data-driven social science.\nTopics\n\nWhat is population data science?\nWhy study populations with computational tools?\nKey datasets (census, surveys, registers, and digital traces)\n\nReading\n\nReimsbach-Kounatze (2020) – Population Data Science: The Data Revolution in Demography\nSacco, N. (2024) – Bringing Computation into Demography: Latin American Perspectives EOF\n\ncat &gt; slides/1.0-intro-slides.qmd &lt;&lt;‘EOF’"
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Welcome to the Population Research Center’s course on Population Data Science, taught by Nicolás Sacco at Portland State University.\n\n\n\nThis course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns.\n\n\n\n\n\nUnderstand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills\n\n\n\n\n\n\n\n\nModule\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations\n\n\n\n\n\n\n\nNicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco\n\n\n\n\n\n🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
   },
   {
-    "objectID": "slides/0.0-syllabus.html#what-is-population-data-science",
-    "href": "slides/0.0-syllabus.html#what-is-population-data-science",
-    "title": "Introduction to Population Data Science",
-    "section": "What is Population Data Science?",
-    "text": "What is Population Data Science?\n\n“The intersection of population studies, statistics, and computation.”"
+    "objectID": "en/index.html#about-the-course",
+    "href": "en/index.html#about-the-course",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "This course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns."
+  },
+  {
+    "objectID": "en/index.html#learning-goals",
+    "href": "en/index.html#learning-goals",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Understand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills"
+  },
+  {
+    "objectID": "en/index.html#course-structure",
+    "href": "en/index.html#course-structure",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Module\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations"
+  },
+  {
+    "objectID": "en/index.html#instructor",
+    "href": "en/index.html#instructor",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Nicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco"
+  },
+  {
+    "objectID": "en/index.html#links",
+    "href": "en/index.html#links",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Welcome to the Population Research Center’s course on Population Data Science, taught by Nicolás Sacco at Portland State University.\n\n\n\nThis course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns.\n\n\n\n\n\nUnderstand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills\n\n\n\n\n\n\n\n\nModule\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations\n\n\n\n\n\n\n\nNicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco\n\n\n\n\n\n🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
+  },
+  {
+    "objectID": "es/index.html#about-the-course",
+    "href": "es/index.html#about-the-course",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "This course introduces computational and statistical approaches to understanding population change.\nWe combine demographic theory with data science tools (R, Quarto, GitHub) to analyze fertility, mortality, migration, and spatial patterns."
+  },
+  {
+    "objectID": "es/index.html#learning-goals",
+    "href": "es/index.html#learning-goals",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Understand and evaluate population data sources\n\nLearn to clean, analyze, and visualize demographic data\n\nApply reproducible workflows for demographic research\n\nBuild a final applied project integrating all skills"
+  },
+  {
+    "objectID": "es/index.html#course-structure",
+    "href": "es/index.html#course-structure",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Module\nTopic\nFormat\n\n\n\n\n1\nIntroduction\nLecture\n\n\n2\nPopulation Data Sources\nWorkshop\n\n\n3\nR Basics\nLab\n\n\n4\nDemographic Data Analysis\nPractice\n\n\n5\nSpatial Demography\nMapping\n\n\n6\nFinal Projects\nPresentations"
+  },
+  {
+    "objectID": "es/index.html#instructor",
+    "href": "es/index.html#instructor",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "Nicolás Sacco\nAssistant Researcher, CONICET – CENEP\nVisiting Researcher, Instituto del Cálculo (UBA)\nPopulation Research Center – PSU\n📧 sacco@pdx.edu | 🌐 GitHub: nsacco"
+  },
+  {
+    "objectID": "es/index.html#links",
+    "href": "es/index.html#links",
+    "title": "Intro to Population Data Science",
+    "section": "",
+    "text": "🧭 Course Syllabus\n\n📚 Modules\n\n🎞️ Slides\n\n💻 Repository"
   }
 ]

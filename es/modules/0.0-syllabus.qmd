@@ -1,0 +1,36 @@
+---
+title: "Course Syllabus"
+format: html
+---
+
+## Course Information
+**Instructor:** Nicolás Sacco  
+**Institution:** Population Research Center, Portland State University  
+**Semester:** Fall 2025  
+**Format:** Hybrid / In-person + Online materials  
+
+---
+
+## Description
+This course introduces students to the principles and practices of **Population Data Science**, an emerging interdisciplinary field combining **demography, statistics, and computational methods** to analyze population data.
+
+---
+
+## Learning Objectives
+By the end of this course, students will be able to:
+1. Understand key population data sources and their limitations  
+2. Apply R for demographic and spatial data analysis  
+3. Build reproducible workflows using open science tools (R, Quarto, GitHub)  
+4. Conduct a mini population data project  
+
+---
+
+## Evaluation
+- Assignments (40%)  
+- Final Project (40%)  
+- Participation (20%)
+
+---
+
+## Software
+R, RStudio, and Quarto (installation guide under *Software* tab)

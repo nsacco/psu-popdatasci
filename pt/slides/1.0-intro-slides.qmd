@@ -1,0 +1,23 @@
+---
+title: "Introduction to Population Data Science"
+format: revealjs
+---
+
+## What is Population Data Science?
+
+> *“The intersection of population studies, statistics, and computation.”*
+
+---
+
+### Why Population Data Science?
+- Massive growth in open demographic data
+- Reproducible workflows (R + Quarto + GitHub)
+- Integration of spatial, temporal, and social dimensions
+
+---
+
+### The Course Journey
+1. Core demographic data sources  
+2. Programming foundations in R  
+3. Spatial and temporal modeling  
+4. Project and presentation
